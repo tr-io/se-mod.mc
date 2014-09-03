@@ -1,0 +1,16 @@
+[
+{
+  "modid": "spacemod",
+  "name": "The Space Environment Mod",
+  "description": "Space Environment Mod",
+  "version": "${1.0}",
+  "mcversion": "${1.7.10}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Megaleo234"],["Leo Liu"]
+  "credits": "Leo for making this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

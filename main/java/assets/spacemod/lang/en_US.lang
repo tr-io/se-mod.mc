@@ -1,0 +1,38 @@
+tile.MegaTNT.name=Mega TNT
+
+tile.MeteoriteBlock.name=Meteorite
+tile.AsteroidBlock.name=Asteroid
+itemGroup.SEBlocks=SE Mod Blocks
+itemGroup.SEItems=SE Mod Items
+item.Cobalt.name=Pure Cobalt
+item.Ruthenium.name=Pure Ruthenium
+item.Iridium.name=Pure Iridium
+tile.CobaltOre.name=Cobalt Ore
+tile.IridiumOre.name=Iridium Ore
+tile.RutheniumOre.name=Ruthenium Ore
+
+item.CobaltPickaxe.name=Cobalt Pickaxe
+item.CobaltSword.name=Cobalt Sword
+item.CobaltShovel.name=Cobalt Shovel
+item.CobaltAxe.name=Cobalt Axe
+
+item.IridiumPickaxe.name=Iridium Pickaxe
+item.IridiumSword.name=Iridium Sword
+item.IridiumShovel.name=Iridium Shovel
+item.IridiumAxe.name=Iridium Axe
+
+item.RutheniumPickaxe.name=Ruthenium Pickaxe
+
+item.CobaltIngot.name=Cobalt Ingot
+item.IridiumIngot.name=Iridium Ingot
+item.RutheniumIngot.name=Ruthenium Ingot
+
+item.CobaltHelmet.name=Cobalt Helmet
+item.CobaltChestplate.name=Cobalt Chestplate
+item.CobaltLeggings.name=Cobalt Leggings
+item.CobaltBoots.name=Cobalt Boots
+
+item.IridiumHelmet.name=Iridium Helmet
+item.IridiumChestplate.name=Iridium Chestplate
+item.IridiumLeggings.name=Iridium Leggings
+item.IridiumBoots.name=Iridium Boots
